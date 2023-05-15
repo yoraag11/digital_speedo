@@ -1,16 +1,3 @@
-# speedo_ev
+Electric Car Dashboard build with Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="960" alt="image" src="https://github.com/yoraag11/digital_speedo/assets/109724494/1dab1d65-e608-410b-84c1-a366e63b60ae">
